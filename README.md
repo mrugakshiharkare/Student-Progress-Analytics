@@ -1,4 +1,4 @@
-**Project Title: Student-Progress-Analytics** a data-driven Excel dashboard that analyzes and visualizes student performance to uncover key academic insights.
+**Project Title:** **Student-Progress-Analytics** a data-driven Excel dashboard that analyzes and visualizes student performance to uncover key academic insights.
 
 **Overview:**
 - This project studies student performance data using Microsoft Excel to find trends in marks, attendance, and subjects.
